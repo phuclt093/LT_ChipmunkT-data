@@ -21,10 +21,20 @@
       {
         "role": "tool",
         "text": "✗ Error resuming session: No previous sessions found for this project."
+      },
+      {
+        "role": "user",
+        "text": "alo",
+        "images": []
+      },
+      {
+        "role": "assistant",
+        "text": "Alo! Mình đây. Bạn cần giúp gì với repo `LT_ChipmunkT-data`?"
       }
     ],
-    "updatedAt": "2026-10-25T16:41:09.242Z",
+    "updatedAt": "2026-10-25T16:41:36.041Z",
     "geminiSession": "3a81d093-9162-42e3-b69f-051fe5af9af7",
+    "homeSession": "a91dbc50-66cc-4899-a4d5-afe5103a0298",
     "history": []
   }
 }
