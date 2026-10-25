@@ -1,0 +1,16 @@
+{
+  "main": {
+    "tabs": [],
+    "active": null,
+    "cursors": {},
+    "chat": [
+      {
+        "role": "user",
+        "text": "alo",
+        "images": []
+      }
+    ],
+    "updatedAt": "2026-10-25T16:40:45.692Z",
+    "history": []
+  }
+}
