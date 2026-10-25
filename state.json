@@ -12,9 +12,18 @@
       {
         "role": "tool",
         "text": "✗ [API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-3.1-pro, description: Generate content input tokens per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-3.1-pro, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-3.1-pro, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-3.1-pro, description: Generate content input tokens per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 14h19m5.472425215s.]\nPlease wait and try again later. To increase your limits, request a quota increase through AI Studio, or switch to another /auth method"
+      },
+      {
+        "role": "user",
+        "text": "alo",
+        "images": []
+      },
+      {
+        "role": "tool",
+        "text": "✗ Error resuming session: No previous sessions found for this project."
       }
     ],
-    "updatedAt": "2026-10-25T16:40:53.041Z",
+    "updatedAt": "2026-10-25T16:41:09.242Z",
     "geminiSession": "3a81d093-9162-42e3-b69f-051fe5af9af7",
     "history": []
   }
